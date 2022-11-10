@@ -35,6 +35,8 @@
 
 ## Исходные данные
 
+`~ 16500` данных для исследования
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
